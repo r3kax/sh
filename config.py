@@ -1,5 +1,5 @@
-BOT_TOKEN = "ВАШ_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8263077456:AAHX26xlcozhQ_pdCYcs7Gd0lVw5JeuKUP0"
 BOT_ADMIN_ID = 8318264587
 CRYPTO_TOKEN = "547101:AAPyUipQgyQGg7vGImXhM6bE6nYQt6j4cC7"
-APP_URL = "https://sh-o6e4.onrender.com"
+APP_URL = "https://sh-qksz.onrender.com"
 FILES_FOLDER = "files" 
