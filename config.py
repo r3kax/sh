@@ -1,0 +1,5 @@
+BOT_TOKEN = "ВАШ_TELEGRAM_BOT_TOKEN"
+BOT_ADMIN_ID = 123456789
+CRYPTO_TOKEN = "ВАШ_CRYPTO_BOT_TOKEN"
+APP_URL = "https://ваш-домен-на-render.com"
+FILES_FOLDER = "files" 
